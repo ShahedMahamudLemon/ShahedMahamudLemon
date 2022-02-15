@@ -23,7 +23,7 @@
 <a href="https://t.me/sm_lemonn_101">
   <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="mailto:mhnahib@gmail.com">
+<a href="mailto:">
   <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 <a href="https://www.facebook.com/sm.lemonn.101">
