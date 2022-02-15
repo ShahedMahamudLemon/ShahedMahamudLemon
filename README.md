@@ -4,7 +4,6 @@
 [![Github](https://img.shields.io/github/stars/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
 [![Github](https://img.shields.io/github/watchers/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
 
-<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahedMahamudLemon&show_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedMahamudLemon&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
