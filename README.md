@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=Hello+World!;I+am+Shahed+Mahamud+Lemon+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Shahed+Mahamud+Lemon+%F0%9F%91%8B;Assalamu+Alaikum!)](https://git.io/typing-svg)
 <br/>
 [![Github](https://img.shields.io/github/followers/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
 [![Github](https://img.shields.io/github/last-commit/ShahedMahamudLemon/ShahedMahamudLemon)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
