@@ -15,7 +15,7 @@
 
 
 <a href="https://www.linkedin.com/in/shahedmahamudlemon">
-  <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
 </a>
 <a href="https://github.com/ShahedMahamudLemon">
   <img align="left"  width="25px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
@@ -27,9 +27,8 @@
   <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
 <a href="https://www.facebook.com/sm.lemonn.101">
-  <img align="left" width="25px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+  <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
-
 </br>
 
 
