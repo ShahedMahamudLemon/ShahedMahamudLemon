@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Shahed+Mahamud+Lemon+%F0%9F%91%8B;Assalamu+Alaikum+Everyone)](https://git.io/typing-svg)
 <br/>
 [![Github](https://img.shields.io/github/followers/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
-[![Github](https://img.shields.io/github/last-commit/ShahedMahamudLemon/ShahedMahamudLemon)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
-[![Github](https://img.shields.io/github/stars/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
-[![Github](https://img.shields.io/github/watchers/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon/ShahedMahamudLemon)
+[![Github](https://img.shields.io/github/last-commit/ShahedMahamudLemon/ShahedMahamudLemon)](https://github.com/ShahedMahamudLemon)
+[![Github](https://img.shields.io/github/stars/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
+[![Github](https://img.shields.io/github/watchers/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+ <h2 align="center" style="color: #000; font-family: Lucida Console;">⚡ My Stats ⚡</h2>
+   <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahedMahamudLemon&show_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedMahamudLemon&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
