@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/watchers/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-![](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
+
 <br/>
  <h2 align="center" style="color: #000; font-family: Goudy Bookletter 1911;">⚡ My Stats ⚡</h2>
    <br/>
@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedMahamudLemon&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
 
-### :computer: Follow Me ON:
+### :computer: Follow Me:
 
 
 <a href="https://www.linkedin.com/in/shahedmahamudlemon">
@@ -33,6 +33,9 @@
 <a href="https://www.facebook.com/sm.lemonn.101">
   <img align="left" width="25px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
+<a href="https://sites.google.com/view/lemonkhan">
+  <img align="left" width="25px" src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-website-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
+</a>
 </br>
 
 
@@ -47,7 +50,7 @@
 
 <!--
 **ShahedMahamudLemon/ShahedMahamudLemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
