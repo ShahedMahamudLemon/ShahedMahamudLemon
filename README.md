@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedMahamudLemon&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahedMahamudLemon&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahedMahamudLemon&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ### :computer: Follow Me:
 
