@@ -7,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Shahed+Mahamud+Lemon+%F0%9F%91%8B;Assalamu+Alaikum+Everyone)](https://git.io/typing-svg)
 <br/>
 
+
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahedMahamudLemon" alt="ShahedMahamudLemon" /> </p>
+<br/>
  <h2 align="center" style="color: #000; font-family: Goudy Bookletter 1911;">⚡ My Stats ⚡</h2>
    <br/>
  
