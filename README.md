@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/stars/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
 [![Github](https://img.shields.io/github/watchers/ShahedMahamudLemon/ShahedMahamudLemon?style=social)](https://github.com/ShahedMahamudLemon)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=I+am+Shahed+Mahamud+Lemon+%F0%9F%91%8B;Assalamu+Alaikum+Everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=Professional+MERN+stack+developer;I'm+Lemon+%F0%9F%91%8B)](https://git.io/typing-svg)
 <br/>
 
 
