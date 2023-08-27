@@ -7,9 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A7DF7&center=true&vCenter=true&lines=Professional+MERN+stack+developer;I'm+Lemon+%F0%9F%91%8B)](https://git.io/typing-svg)
 <br/>
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ShahedMahamudLemon}/count.svg" /></p> 
+</div>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahedMahamudLemon" alt="ShahedMahamudLemon" /> </p>
 <br/>
  <h2 align="center" style="color: #000; font-family: Goudy Bookletter 1911;">⚡ My Stats ⚡</h2>
    <br/>
@@ -42,6 +44,15 @@
   <img align="left" width="25px" src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-website-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
 </a>
 </br>
+</br>
+</br>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
+</br>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
 
 
 
