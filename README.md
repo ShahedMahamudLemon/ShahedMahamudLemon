@@ -16,7 +16,7 @@
  <h2 align="center" style="color: #000; font-family: Goudy Bookletter 1911;">⚡ My Stats ⚡</h2>
    <br/>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahedMahamudLemon&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ShahedMahamudLemon/)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahedMahamudLemon&theme=chartreuse-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahedMahamudLemon&theme=chartreuse-dark)](https://github.com/ShahedMahamudLemon/)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahedMahamudLemon&layout=pie&bg_color=00000000&text_color=FFFFFF)](https://github.com/ShahedMahamudLemon/)
 
